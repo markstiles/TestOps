@@ -1,0 +1,6 @@
+.vs/
+packages/
+TestOpsApp.v3.ncrunchsolution.user
+TestOpsApp/bin/
+TestOpsApp/obj/
+*.user
